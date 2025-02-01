@@ -1,0 +1,1 @@
+print("Condition is True")
